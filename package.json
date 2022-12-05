@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"@types/node": "^18.11.10",
+		"prompt-sync": "^4.2.0"
+	}
+}
